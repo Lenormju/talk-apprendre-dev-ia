@@ -112,6 +112,10 @@ question : quid de nous au milieu ?
 
 Source : https://github.com/Pierre-Loic/prez-Pyconfr-2025/blob/main/slides.md
 
+Source : https://creatoreconomy.so/p/so-whats-going-to-happen-to-product-management-anyway
+
+T-shaped
+
 ---
 
 <!-- .slide: data-background-image="./sgalagaev--5iSCtrJX5o-unsplash.jpg" -->
