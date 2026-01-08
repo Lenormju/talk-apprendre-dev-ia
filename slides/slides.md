@@ -1,6 +1,5 @@
 <!--
 Actions :
-* structure des slides @Julien
 * quelques idées d'images @LESDEUX
 * trame de ce qu'on dit @JONATHAN
 * mise en scène (papy et junior ?), caustique ? @LESDEUX
@@ -60,16 +59,15 @@ Notes:
 
 <!-- .slide: data-background-image="./sgalagaev--5iSCtrJX5o-unsplash.jpg" -->
 
-# TODO dépassionner
+# 1. Dépassionnons l'informatique
 
 -v-
 
 Notes:
 
-proposition de titre : "dépassionnons l'informatique"
-
 anecdotes de nos erreurs grossières à nos débuts
-- cf post de bitecode sur ses premières erreurs, "ça va bien se passer"
+- cf post de bitecode sur ses premières erreurs, "ça va bien se passer" https://www.bitecode.dev/p/the-kids-are-alright
+- Julien : ne comprend rien à Git, et galère à contribuer solo sur un projet pas évident
 
 perspective :
 - le dev a toujours été une succession de révolution à intervalle hyper-fréquents
@@ -78,6 +76,8 @@ perspective :
 - facilité des jeunes à adopter les nouvelles pratiques, réticence pour les anciens (mon exemple), courbe d'adoption
 - vitesse de diffusion limitée par les changements d'habitude et d'organisation
 - les clients comprenaient déjà rien avant, ça va pas changer avec l'IA
+- on continue toujours d'empiler des couches les unes sur les autres, et de faire des schémas avec des patates
+- pas la première panique qu'on va être remplacés : Model-based code generation (UML), India, Stack overflow copy-pasting, Low-code/no-code, ...
 
 de la place pour tous :
 - encore du boulot aujourd'hui en FORTRAN, Cobol, C, et pour des décénnies
@@ -90,6 +90,8 @@ Sens trouvé dans l'écriture du code (code=fin), ou dans le système final (cod
 Pas de jugement, juste notre perspective
 
 On vous souhaite le meilleur à tous, quelque soit votre pratique
+on n'est pas là pour juger, juste présenter notre vision de la situation
+Julien n'est pas du tout en avance, et pas (encore) convaincu par les agents, les skills, ...
 
 Mise en scène :
 
@@ -113,6 +115,12 @@ nouvelle orientation du métier de dev ? c'est quoi le nouveau métier ?
 constat : le dev médiocre qui pissait du code, et des architectes/clients dans des tours d'ivoire, ne marchait déjà pas
 Si l'IA peut remplacer les échelles du bas, on commence déjà à un plus haut niveau
 
+l'IA sait générer du code, donc les codeurs vont disparaître :
+Dev "pisseur de ligne" vs dev "solution"
+Est-ce qu'on est payé pour écrire du code, ou résoudre des problèmes ?
+From "writing lines of code" to "navigating systems towards value"
+"Si c'est Copilot qui génère ton code, et moi qui le relit, tu sers à quoi ?" - Florian G.
+
 moins besoin de compétences de code : l'expertise au niveau de la ligne de code perd de son importance
 recentrage sur l'ingénierie haut-niveau : boucle au niveau du besoin, faire des choix, complètement assisté par IA
 devenons des "développeurs de solutions", pas simples codeurs
@@ -123,13 +131,14 @@ processus d'ingénierie :
 - comment traduire ça en code qui marche : langage + écosystème moderne
   (dans le corpus d'entrainement de l'IA),
   capacité à évaluer les différentes propositions et faire des choix,
-  éviter les régressions, boucler rapidement, tests, CI,
+  éviter les régressions, boucler rapidement, tests, CI, sécurité
   Pareto 80/20 pour faire des POC
 - le code est un outil, c'est vous qui en êtes responsable, pour le pire et le meilleur
  (félicitations et engueulades), pas l'IA
   => faire sien le code, endosser le code (relecture, questionnement de l'IA)
   => challenger le code généré
   https://simonwillison.net/2025/Feb/3/a-computer-can-never-be-held-accountable/
+  => prouver que ça marche : https://simonwillison.net/2025/Dec/18/code-proven-to-work/
 
 l'IA rend le métier plus exigeant qu'avant (démultiplicateur)
 - besoin d'une connaissance + transverse, moins spécialisée, T-shaped
@@ -137,6 +146,7 @@ l'IA rend le métier plus exigeant qu'avant (démultiplicateur)
 
 Dev assisté IA pour client qui cherche pas un codeur pour rentrer son idée dans l'ordinateur,
 mais un (co-)solutionneur
+Avec la vitesse de production de l'IA, les devs mettent maintenant la pression aux PO/PM, et vont donc devoir grignoter
 
 ça + les limitations d'accès à l'IA vont faire du tri, le gap va s'élargir
 
@@ -175,6 +185,8 @@ avant on déléguait à des gens, maintenant aux IA
 un stagiaire est déjà manager de plusieurs IAs
 
 challenger le code, rassembler et synthétiser l'info, apprendre plus vite
+
+Comment apprendre si c'est l'IA qui code ?
 
 Mise en scène :
 jeune / vieux ?
@@ -216,6 +228,9 @@ vous réponde, prenez le temps de passer le flambeau
 responsabilité renforcée sur le tech lead
 
 Exercice de code review, à partir de code généré par IA
+
+Quid de l'évolution de mes skills tech en tant que senior si l'IA code à ma place ?
+C'est quoi un senior ? C'est quoi un plan de carrière ? Un profil en V T W ...
 
 Mise en scène:
 Scène de bureaux : deux vieux dev, comment tu fais toi ?
