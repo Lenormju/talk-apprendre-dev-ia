@@ -59,8 +59,6 @@ Notes:
 
 # 1. Dépassionnons l'informatique
 
--v-
-
 Notes:
 
 anecdotes de nos erreurs grossières à nos débuts
@@ -97,13 +95,23 @@ Mise en scène :
 - pro IA/contre IA ? jeune/vieux ?
   * "contre" avance les problèmes, "pour" met en perspective
 
+-v-
+
+## IA
+
+<img src=anthropic.png width="200px">
+<img src=deepseek.png width="200px">
+<img src=gemini.webp width="200px">
+<img src=mistral-ai.png width="200px">
+<img src=openai.png width="200px">
+<img src=qwen.png width="200px">
+
 ---
 
 <!-- .slide: data-background-image="./sgalagaev--5iSCtrJX5o-unsplash.jpg" -->
 
 # TODO Mutation du métier
 
--v-
 
 Notes:
 
@@ -160,13 +168,18 @@ Mise en scène :
 Dompter le tigre ? Dev avec/contre IA ? Un qui fait le dev, l'autre l'IA ?
 Code review en ligne ?
 
+-v-
+
+## L'IA est irresponsalbe, donc **vous** êtes responsable
+
+![](./a-computer-can-never-be-held-accountable.jpg)
+
 ---
 
 <!-- .slide: data-background-image="./sgalagaev--5iSCtrJX5o-unsplash.jpg" -->
 
 # TODO Nouvelle posture des juniors
 
--v-
 
 Notes:
 "vibe engineering" : du vibe coding, mais avec un recul d'ingénierie (regarder sous le capot)
@@ -194,8 +207,6 @@ jeune / vieux ?
 <!-- .slide: data-background-image="./sgalagaev--5iSCtrJX5o-unsplash.jpg" -->
 
 # TODO Nouvelle posture des seniors
-
--v-
 
 Notes:
 focus sur les juniors !
@@ -241,7 +252,6 @@ Scène de bureaux : deux vieux dev, comment tu fais toi ?
 
 # TODO le futur
 
--v-
 
 Notes:
 ouverture
@@ -262,6 +272,34 @@ centaure inversé technologique (le livreur asservi à son GPS)
 
 faites attention à toujours rester des centaures aux commandes de l'IA, la sphère
 économique (entreprises, fournisseurs d'IA) veut faire de vous des centaures inversés
+
+-v-
+
+## Centaure 
+
+![](./centaur.png)
+
+-v-
+
+## Centaure inversé
+
+![](./reverse_centaur.png)
+-v-
+
+## Centaure technologique
+
+![](./GPS.jpg)
+-v-
+
+## Centaure inversé technologique
+
+![](./delivery.png)
+-v-
+
+## IA is the new prolo ?
+
+![](./charlie.webp)
+-v-
 
 ---
 
@@ -332,12 +370,35 @@ Notes:
 
 ### Abstract
 
-> À l'ère de l'IA, les devs expérimentés qui ont l'habitude de piloter une équipe sautent facilement dans le train de l'IA, utilisant un ou plusieurs agents dernier cri pour se transformer en "équipe à soi tout seul" capable d'accélérer spectaculairement leur projet. De l'autre côté, les développeurs débutants, pas formés à l'usage de l'IA, se retrouvent critiqués pour accepter trop facilement le code approximatif généré par leur modèle et saturer le pipeline de revue de code. Alors, comment fait-on maintenant pour passer du débutant à l'expert ?
+> À l'ère de l'IA, les devs expérimentés qui ont l'habitude de piloter une équipe
+> sautent facilement dans le train de l'IA, utilisant un ou plusieurs agents dernier cri
+> pour se transformer en "équipe à soi tout seul" capable d'accélérer spectaculairement
+> leur projet. De l'autre côté, les développeurs débutants, pas formés à l'usage de
+> l'IA, se retrouvent critiqués pour accepter trop facilement le code approximatif
+> généré par leur modèle et saturer le pipeline de revue de code. Alors, comment
+> fait-on maintenant pour passer du débutant à l'expert ?
 >
-> Après avoir rappelé que l'IA ne se diffuse pas si vite que ça chez les industriels, que nous avons tous démarré en faisant des erreurs grossières, et que la nouvelle génération plongée dans l'IA dès le premier commit est mieux armée que l'ancienne pour dompter ce nouveau paradigme, nous présenterons la nouvelle orientation prise par le métier de développeur. Moins de lignes de code délicatement ciselées, et davantage de revue de code généré, le développeur doit migrer vers un rôle de plus haut niveau, plus exigeant, en insistant sur les fondamentaux de l’ingénierie : définir le problème, proposer des solutions, les challenger, choisir, implémenter, tester, recommencer, le tout assisté par l'IA à toutes les étapes.
+> Après avoir rappelé que l'IA ne se diffuse pas si vite que ça chez les industriels,
+> que nous avons tous démarré en faisant des erreurs grossières, et que la nouvelle
+> génération plongée dans l'IA dès le premier commit est mieux armée que l'ancienne pour
+> dompter ce nouveau paradigme, nous présenterons la nouvelle orientation prise par le
+> métier de développeur. Moins de lignes de code délicatement ciselées, et davantage de
+> revue de code généré, le développeur doit migrer vers un rôle de plus haut niveau,
+> plus exigeant, en insistant sur les fondamentaux de l’ingénierie :
+> définir le problème, proposer des solutions, les challenger, choisir, implémenter,
+> tester, recommencer, le tout assisté par l'IA à toutes les étapes.
 >
-> En parallèle, il devient encore plus important d'insister sur la vision globale des technos logicielles afin de naviguer dans un écosystème qui accélère encore, et sur la communication avec à la fois le commanditaire du code et ses utilisateurs, essentielle pour atteindre le but du projet.
+> En parallèle, il devient encore plus important d'insister sur la vision globale des
+> technos logicielles afin de naviguer dans un écosystème qui accélère encore,
+> et sur la communication avec à la fois le commanditaire du code et ses utilisateurs,
+> essentielle pour atteindre le but du projet.
 >
-> Enfin, certaines compétences perdent de l'importance, comme la connaissance exhaustive d'un langage ou d'une techno, et la spécialisation perd de l'importance face à la capacité de s'adapter et d'aller vite.
+> Enfin, certaines compétences perdent de l'importance, comme la connaissance exhaustive
+> d'un langage ou d'une techno, et la spécialisation perd de l'importance face à la
+> capacité de s'adapter et d'aller vite.
 >
-> Les experts et enseignants doivent donc insister davantage sur le processus, et moins sur le code. En parallèle, les débutants doivent apprendre à tester et valider chaque ligne, pas seulement en faisant générer un test à l'IA, mais en s'assurant que le test garanti effectivement ce qui est attendu dans la spec. Et tout le monde se recentrer sur notre cœur de métier : développeurs de solutions, pas simples codeurs.
+> Les experts et enseignants doivent donc insister davantage sur le processus, et moins
+> sur le code. En parallèle, les débutants doivent apprendre à tester et valider chaque
+> ligne, pas seulement en faisant générer un test à l'IA, mais en s'assurant que le test
+> garanti effectivement ce qui est attendu dans la spec. Et tout le monde se recentrer
+> sur notre cœur de métier : développeurs de solutions, pas simples codeurs.
