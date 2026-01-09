@@ -105,7 +105,6 @@ Mise en scène :
 
 # TODO Mutation du métier
 
--v-
 
 Notes:
 
@@ -162,17 +161,18 @@ Mise en scène :
 Dompter le tigre ? Dev avec/contre IA ? Un qui fait le dev, l'autre l'IA ?
 Code review en ligne ?
 
----
-
-<!-- .slide: data-background-image="./sgalagaev--5iSCtrJX5o-unsplash.jpg" -->
+-v-
 
 ## L'IA est irresponsalbe, donc **vous** êtes responsable
 
 ![](./a-computer-can-never-be-held-accountable.jpg)
 
+---
+
+<!-- .slide: data-background-image="./sgalagaev--5iSCtrJX5o-unsplash.jpg" -->
+
 # TODO Nouvelle posture des juniors
 
--v-
 
 Notes:
 "vibe engineering" : du vibe coding, mais avec un recul d'ingénierie (regarder sous le capot)
@@ -200,8 +200,6 @@ jeune / vieux ?
 <!-- .slide: data-background-image="./sgalagaev--5iSCtrJX5o-unsplash.jpg" -->
 
 # TODO Nouvelle posture des seniors
-
--v-
 
 Notes:
 focus sur les juniors !
@@ -245,7 +243,6 @@ Scène de bureaux : deux vieux dev, comment tu fais toi ?
 
 # TODO le futur
 
--v-
 
 Notes:
 ouverture
@@ -266,6 +263,34 @@ centaure inversé technologique (le livreur asservi à son GPS)
 
 faites attention à toujours rester des centaures aux commandes de l'IA, la sphère
 économique (entreprises, fournisseurs d'IA) veut faire de vous des centaures inversés
+
+-v-
+
+## Centaure 
+
+![](./centaur.png)
+
+-v-
+
+## Centaure inversé
+
+![](./reverse_centaur.png)
+-v-
+
+## Centaure technologique
+
+![](./GPS.jpg)
+-v-
+
+## Centaure inversé technologique
+
+![](./delivery.png)
+-v-
+
+## IA is the new prolo ?
+
+![](./charlie.webp)
+-v-
 
 ---
 
