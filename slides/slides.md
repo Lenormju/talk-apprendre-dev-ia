@@ -219,6 +219,8 @@ transformation de "faire" à "comprendre pourquoi fait comme ça" et refaire le 
 
 apprendre aux jeunes à quoi faire attention, évaluer les perfs à la louche, s'assurer
 que les entrées sont validées...
+ne pas chercher à leur faire faire des trucs de base, petit, facile
+ne pas chercher à leur faire reproduire votre parcours : ils vont tout de suite plus haut
 
 faire l'enseignement au lieu de laisser produire de l'AI slop, prendre le temps d'enseigner
 maitre/disciple, appel à la solidarité inter-générationnelle : en attendant que le client
