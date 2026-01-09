@@ -34,17 +34,18 @@
   Et je foutais des pointeurs partout parce que je croyais que progresser c'était gérer
   sa mémoire dynamiquement et manuellement.
 - [Ju]...
-- [Jo] La première chose que j'ai fait sur ma première application en Python, c'est écrire
-  une lib de logging. Histoire de réinventer encore la roue carrée.
+- [Jo] La première chose que j'ai fait sur ma première application en Python,
+  c'est écrire une lib de logging. Histoire de réinventer encore la roue carrée.
 - [Ju]...
-- [Jo] J'ai mis du code en prod sans le moindre test, et on perdu des semaines de prod sur
-  une centrale solaire (mais c'était pas moi).
+- [Jo] J'ai mis du code en prod sans le moindre test, et on perdu des semaines de prod
+  sur une centrale solaire (mais c'était pas moi).
   Les jeunes font des conneries parce qu'ils sont jeunes et savent pas, pas à cause de
   l'IA.
   En plus, le dev est une discipline très jeune, il y a des gens plus vieux que la
   discipline !
 - [Ju] Oui mais l'IA va tout chambouler !
-- [Jo] Mais le dev a toujours été une succession de révolution à intervalle hyper-fréquents :
+- [Jo] Mais le dev a toujours été une succession de révolution à intervalle
+  hyper-fréquents :
   langage informatique, carte perforée, terminal, code structuré, OOP, Google, langage
   haut-niveau, Git, npm, Web, Docker & k8s, Cloud, ChatGPT, Claude Code + Sonnet 3.5...
   Ça bouge beaucoup, tout le temps, et les jeunes ont une facilité à adopter les
@@ -61,8 +62,9 @@
   Oui les jeunes auront pas les mêmes difficultés que nous, encore heureux ! Sinon à
   quoi sert tout ce qu'on a codé ? Ils auront les problèmes de leur temps.
   Donc les vieux, vous vous sentez peut être bousculés par l'IA, mais vous avez vous
-  mêmes bousculés vos prédécesseurs, et dans notre industrie la bousculade est récurrente.
-  Donc en fait tout est normal. Suprenant, bousculant mais normal.
+  mêmes bousculés vos prédécesseurs, et dans notre industrie la bousculade est
+  récurrente.
+  Donc en fait tout est normal. Ou habituel. Suprenant, bousculant mais comme d'hab'.
 
 ### On a le temps et de la place
 
@@ -70,7 +72,7 @@
 - [Jo] L'IA va pas se répandre si vite que ça.
   Il faut changer les habitudes, former les développeurs, c'est long
   Il faut aussi changer les organisations, régler les problèmes de cybersec et
-  confidentialité des données, donner confiances aux manageurs et donneurs d'ordre
+  confidentialité des données, donner confiances aux manageurs et donneurs d'ordre.
   En plus, y'a des secteurs hyper-conservateurs et allergiques au changement :
   nucléaire, banque, transport...
   Et pis, honnêtement, entre nous, qui n'a jamais fait une mission ou un job avec un
@@ -80,7 +82,7 @@
 - [Jo] Et y'en aura demain, et encore dans 10 ans
 - [Ju] Mais sans doute moins
 - [Jo] Oui parce qu'avec la pression des concurrents, pas mal de boites vont quand même
-  devoir bouger. Mais y'a le temps, et y'a de la place.
+  devoir bouger. Mais y'a le temps, et y'a de la place, pour ceux qui n'aiment pas l'IA.
 
 ### L'heure du choix
 
@@ -89,8 +91,8 @@
   y aller ou pas ? Craft ou agent IA ? On saute sur le tigre ou pas ?
   On a tous une question à se poser : est-ce que pour moi le but est dans l'écriture
   du code ? Ou dans le système final ? Le code est-il une fin en soi, ou un moyen ?
-- [Ju] Nous, on a pas d'avis. Vous faites ce que vous voulez, et comme on a dit, y'a le temps
-  et la place.
+- [Ju] Nous, on a pas d'avis. Vous faites ce que vous voulez, et comme on a dit,
+  y'a le temps et la place.
 - [Jo] On n'est pas là pour juger, juste présenter notre vision de la situation, et
   on vous souhaite le meilleur à tous, quelque soit votre pratique.
 - [Ju] Je suis pas en avance, et pas (encore) convaincu par les agents, les skills...
