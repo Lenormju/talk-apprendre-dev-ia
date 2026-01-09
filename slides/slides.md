@@ -61,8 +61,6 @@ Notes:
 
 # 1. Dépassionnons l'informatique
 
--v-
-
 Notes:
 
 anecdotes de nos erreurs grossières à nos débuts
@@ -98,6 +96,17 @@ Mise en scène :
 - échange d'anecdote de quand on était jeune et noob
 - pro IA/contre IA ? jeune/vieux ?
   * "contre" avance les problèmes, "pour" met en perspective
+
+-v-
+
+## IA
+
+<img src=anthropic.png width="200px">
+<img src=deepseek.png width="200px">
+<img src=gemini.webp width="200px">
+<img src=mistral-ai.png width="200px">
+<img src=openai.png width="200px">
+<img src=qwen.png width="200px">
 
 ---
 
