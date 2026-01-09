@@ -318,7 +318,7 @@ Notes:
 
 <style>
 .reveal .small-text blockquote {
-    font-size: 0.8em;
+    font-size: 0.7em;
     text-align: left;
 }
 .reveal .small-text blockquote p {
@@ -326,9 +326,9 @@ Notes:
 }
 </style>
 
-<!-- .slide: data-background-image="./sgalagaev--5iSCtrJX5o-unsplash.jpg" class="small-text" -->
+<!-- .slide: class="small-text" -->
 
-## Abstract
+### Abstract
 
 > À l'ère de l'IA, les devs expérimentés qui ont l'habitude de piloter une équipe sautent facilement dans le train de l'IA, utilisant un ou plusieurs agents dernier cri pour se transformer en "équipe à soi tout seul" capable d'accélérer spectaculairement leur projet. De l'autre côté, les développeurs débutants, pas formés à l'usage de l'IA, se retrouvent critiqués pour accepter trop facilement le code approximatif généré par leur modèle et saturer le pipeline de revue de code. Alors, comment fait-on maintenant pour passer du débutant à l'expert ?
 >
