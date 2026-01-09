@@ -20,9 +20,7 @@ Actions :
 
 ---
 
-<!-- .slide: data-background-image="./sgalagaev--5iSCtrJX5o-unsplash.jpg" -->
-
-TODO slide sponsors
+<!-- .slide: data-background-image="./Slide Sponsor SnowCamp 2026 - 16.9.pptx.svg" -->
 
 -v-
 
