@@ -3,6 +3,7 @@ Actions :
 * quelques idées d'images @LESDEUX
 * trame de ce qu'on dit @JONATHAN
 * mise en scène (papy et junior ?), caustique ? @LESDEUX
+* reformuler "on a le temps et la place" ?
 -->
 
 <style>
@@ -56,7 +57,6 @@ Notes:
 ---
 
 <!-- .slide: data-background-image="./sgalagaev--5iSCtrJX5o-unsplash.jpg" -->
-
 # 1. Dépassionnons l'informatique
 
 Notes:
@@ -106,12 +106,38 @@ Mise en scène :
 <img src=openai.png width="200px">
 <img src=qwen.png width="200px">
 
+-v-
+
+## Erreurs de jeunesse
+
+-v-
+
+## Révolutions informatiques
+
+-v-
+
+## Les jeunes de nos jours ...
+
+-v-
+
+## C'est normal
+
+-v-
+
+## La vitesse du changement
+
+-v-
+
+## Le temps et la place
+
+-v-
+
+## L'heure du choix
+
 ---
 
 <!-- .slide: data-background-image="./sgalagaev--5iSCtrJX5o-unsplash.jpg" -->
-
-# TODO Mutation du métier
-
+# 2. La mutation du métier
 
 Notes:
 
@@ -170,16 +196,35 @@ Code review en ligne ?
 
 -v-
 
+## L'IA qui code, le dev qui décide
+
+<img src="./Gemini_Generated_Image_control.png" class="r-stretch" alt="" />
+
+-v-
+
+## Le retour de l'ingénierie
+
+<img src="./Gemini_Generated_Image_engineering.png" class="r-stretch" alt="" />
+
+-v-
+
 ## L'IA est irresponsalbe, donc **vous** êtes responsable
 
 ![](./a-computer-can-never-be-held-accountable.jpg)
+
+-v-
+
+## La vitesse et le produit
+
+<img src="./Gemini_Generated_Image_product.png" class="r-stretch" alt="" />
 
 ---
 
 <!-- .slide: data-background-image="./sgalagaev--5iSCtrJX5o-unsplash.jpg" -->
 
-# TODO Nouvelle posture des juniors
+# 3. La nouvelle posture des juniors
 
+TODO image
 
 Notes:
 "vibe engineering" : du vibe coding, mais avec un recul d'ingénierie (regarder sous le capot)
@@ -202,11 +247,42 @@ Comment apprendre si c'est l'IA qui code ?
 Mise en scène :
 jeune / vieux ?
 
+-v-
+
+## Vibe coding ?
+
+<img src="./Gemini_Generated_Image_vibe_coding.png" class="r-stretch" alt="" />
+
+-v-
+
+## Vibe engineering !
+
+<img src="./Gemini_Generated_Image_vibe_engineering.png" class="r-stretch" alt="" />
+
+-v-
+
+## Apprendre à faire des projets
+
+<img src="./Gemini_Generated_Image_project.png" class="r-stretch" alt="" />
+
+-v-
+
+## L'interaction avec les agents
+
+<img src="./Gemini_Generated_Image_agents.png" class="r-stretch" alt="" />
+
+-v-
+
+## Trouver du boulot ...
+
+<img src="./Gemini_Generated_Image_hiring.png" class="r-stretch" alt="" />
+
 ---
 
 <!-- .slide: data-background-image="./sgalagaev--5iSCtrJX5o-unsplash.jpg" -->
+# 4. La nouvelle posture des seniors
 
-# TODO Nouvelle posture des seniors
+TODO image
 
 Notes:
 focus sur les juniors !
@@ -246,12 +322,24 @@ C'est quoi un senior ? C'est quoi un plan de carrière ? Un profil en V T W ...
 Mise en scène:
 Scène de bureaux : deux vieux dev, comment tu fais toi ?
 
+-v-
+
+## Les avantages des IAs
+
+<img src="./Gemini_Generated_Image_temps_libéré.png" class="r-stretch" alt="" />
+
+-v-
+
+## Passer le flambeau
+
+<img src="./Gemini_Generated_Image_flambeau.png" class="r-stretch" alt="" />
+
 ---
 
 <!-- .slide: data-background-image="./sgalagaev--5iSCtrJX5o-unsplash.jpg" -->
+# 5. Le futur
 
-# TODO le futur
-
+TODO image
 
 Notes:
 ouverture
@@ -272,6 +360,12 @@ centaure inversé technologique (le livreur asservi à son GPS)
 
 faites attention à toujours rester des centaures aux commandes de l'IA, la sphère
 économique (entreprises, fournisseurs d'IA) veut faire de vous des centaures inversés
+
+-v-
+
+## Clippy 📎
+
+<img src="./Gemini_Generated_Image_Clippy.png" class="r-stretch" alt="" />
 
 -v-
 
@@ -304,7 +398,6 @@ faites attention à toujours rester des centaures aux commandes de l'IA, la sph�
 ---
 
 <!-- .slide: data-background-image="./sgalagaev--5iSCtrJX5o-unsplash.jpg" -->
-
 # Pour aller + loin
 
 TODO
@@ -312,15 +405,14 @@ TODO
 ---
 
 <!-- .slide: data-background-image="./sgalagaev--5iSCtrJX5o-unsplash.jpg" -->
-
 # Crédits photos
 
-TODO ?
+- ChatGPT
+- Google Gemini
 
 ---
 
 <!-- .slide: data-background-image="./sgalagaev--5iSCtrJX5o-unsplash.jpg" -->
-
 # Questions
 
 <style>
