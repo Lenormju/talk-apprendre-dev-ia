@@ -189,6 +189,9 @@ Source : https://github.com/Pierre-Loic/prez-Pyconfr-2025/blob/main/slides.md
 
 Source : https://creatoreconomy.so/p/so-whats-going-to-happen-to-product-management-anyway
 
+Quentin Adam parle de révolution industrielle de la prestation intellectuelle
+
+la valeur des devs ne réside pas dans le code mais dans l'automatisation des processus métier
 
 Mise en scène :
 Dompter le tigre ? Dev avec/contre IA ? Un qui fait le dev, l'autre l'IA ?
@@ -360,6 +363,8 @@ centaure inversé technologique (le livreur asservi à son GPS)
 
 faites attention à toujours rester des centaures aux commandes de l'IA, la sphère
 économique (entreprises, fournisseurs d'IA) veut faire de vous des centaures inversés
+
+tech feudalism
 
 -v-
 
