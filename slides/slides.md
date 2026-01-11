@@ -430,7 +430,7 @@ Slides
 
 [https://github.com/Lenormju/talk-apprendre-dev-ia/](https://github.com/Lenormju/talk-apprendre-dev-ia/)
 
-TODO qr code slides
+<img src="qr-code-slides.png" alt="" height="700px" />
 
 </div>
 <div class="column">
