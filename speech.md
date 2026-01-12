@@ -18,12 +18,14 @@
 
 ## Dépassionnons
 
-### C'est normal
+### C'est habituel
 
 - [Jo] Aujourd'hui, nous allons parler du développement logiciel à l'ère de l'IA,
   et par IA on veut dire LLM, génération de code, agent, GPT-5.2/Opus 4.5...
 - [Ju] Et des jeunes qui font n'importe quoi avec l'IA
-- [Jo] Et des jeunes qui font n'importe quoi tout court.
+- [Jo] Et des jeunes qui font n'importe quoi tout court. On dirait que l'IA fait
+  ressortir beaucoup plus de vieux débats que de nouveautés, et beaucoup de
+  contradications, essayons de poser les choses.
   Par définition, de tout temps, dans toutes les disciplines, les débutants sont nuls,
   IA ou pas ; et les vieux s'en plaignent.
 - [Ju] Les jeunes sont nuls ? On l'était aussi.
@@ -40,7 +42,7 @@
 - [Jo] J'ai mis du code en prod sans le moindre test, et on perdu des semaines de prod
   sur une centrale solaire (mais c'était pas moi).
   Les jeunes font des conneries parce qu'ils sont jeunes et savent pas, pas à cause de
-  l'IA.
+  l'IA. Et ils vont s'en sortir, comme à chaque fois.
   En plus, le dev est une discipline très jeune, il y a des gens plus vieux que la
   discipline !
 - [Ju] Oui mais l'IA va tout chambouler !
@@ -50,12 +52,12 @@
   haut-niveau, Git, npm, Web, Docker & k8s, Cloud, ChatGPT, Claude Code + Sonnet 3.5...
   Ça bouge beaucoup, tout le temps, et les jeunes ont une facilité à adopter les
   nouvelles pratiques alors que les anciens sont plus réticents.
-- [Ju] Mais les jeunes font n'importe quoi avec le vibe coding, ça va trop vite !
+- [Ju] Mais les jeunes vont trop vite, ils grillent les étapes !
 - [Jo] Et les vieux se plaignent que les jeunes en ont pas chiés autant qu'eux, et
   qu'ils arrivent à faire en 2 jours ce qui leur prenait 2 mois, avec la dernière techno
   qui facilite la vie.
-- [Ju] Mais ils savent pas faire un algo de tri potable, gérer la mémoire, ce qu'est une
-  socket. Ils savent pas se passer de ChatGPT.
+- [Ju] Mais ils ont pas les bases, savent pas faire un algo de tri potable,
+  gérer la mémoire, ce qu'est une socket. Ils savent pas se passer de ChatGPT.
 - [Jo] Et c'est normal, ils font des apps mobiles et du Cloud maintenant. L'informatique
   a grandi, explosé même, le focus de notre génération n'est plus celui de la leur, et
   on peut pas demander à tous les dev de connaitre toute l'histoire de l'informatique.
@@ -64,12 +66,14 @@
   Donc les vieux, vous vous sentez peut être bousculés par l'IA, mais vous avez vous
   mêmes bousculés vos prédécesseurs, et dans notre industrie la bousculade est
   récurrente.
-  Donc en fait tout est normal. Ou habituel. Suprenant, bousculant mais comme d'hab'.
+  Donc en fait tout est... habituel. Suprenant, bousculant mais comme d'hab'.
+  Les jeunes vont s'en tirer malgré un bateau qui tangue, et les vieux ont pas fini de
+  nous casser les oreilles.
 
 ### On a le temps et de la place
 
 - [Ju] Mais j'aime bien coder moi. Là c'est l'IA qui écrit tout le code.
-- [Jo] L'IA va pas se répandre si vite que ça.
+- [Jo] Et c'est très bien. Et l'IA va pas se répandre si vite que ça.
   Il faut changer les habitudes, former les développeurs, c'est long
   Il faut aussi changer les organisations, régler les problèmes de cybersec et
   confidentialité des données, donner confiances aux manageurs et donneurs d'ordre.
@@ -79,7 +83,7 @@
   chef persuadé que le changement est trop risqué ? Que le code tombé en marche ne doit
   plus être touché ? D'ici à mettre de l'IA dedans...
 - [Ju] Donc y'a de la place et du boulot pour les crafteurs et les poètes du code ?
-- [Jo] Et y'en aura demain, et encore dans 10 ans
+- [Jo] Et y'en aura demain, et encore dans 10 ans.
 - [Ju] Mais sans doute moins
 - [Jo] Oui parce qu'avec la pression des concurrents, pas mal de boites vont quand même
   devoir bouger. Mais y'a le temps, et y'a de la place, pour ceux qui n'aiment pas l'IA.
@@ -87,7 +91,7 @@
 ### L'heure du choix
 
 - [Ju] Donc en fait il ne se passe rien
-- [Jo] Si, comme tous les 5 ans à la louche, le dev change, et il va falloir choisir
+- [Jo] Si, le dev change, et il va falloir choisir
   y aller ou pas ? Craft ou agent IA ? On saute sur le tigre ou pas ?
   On a tous une question à se poser : est-ce que pour moi le but est dans l'écriture
   du code ? Ou dans le système final ? Le code est-il une fin en soi, ou un moyen ?
@@ -117,11 +121,11 @@
 - [Ju] Donc des compétences larges : langage, écosystème, technos logicielles, archi,
   test, CI, déploiement, Cloud ?
 - [Jo] Oui et la capacité à trouver des solutions techniques, les évaluer, faire des
-  choix et valider tout ça avec des tests.
-- [Ju] De l'ingéniérie, mais à la vitesse de l'IA.
+  choix et valider tout ça avec des tests. On va vite se rendre compte que dans un
+  système informatique, l'écriture du code n'était pas le problème principal.
+- [Ju] De l'ingéniérie, mais à la vitesse de l'IA ? Plus besoin de coder ?
 - [Jo] Oui, on va sortir des POC en quelques jours, tester plusieurs solutions...
-- [Ju] Cool j'ai plus besoin de coder alors.
-- [Jo] Avec un gros avertissement tout de même : vous êtes responsable du code livré,
+  Avec un gros avertissement tout de même : vous êtes responsable du code livré,
   pour le meilleur et pour le pire, les félicitations comme l'engueulade.
   Il faut faire sien le code généré, l'endosser, par la relecture, le test,
   et en posant des questions à l'IA tant qu'on a doute, tant qu'on a pas tout compris.
@@ -150,18 +154,29 @@
   facile à maintenir
 - [Jo] Oui mais le code de débutant était déjà pas ouf et pas facile à maintenir avant.
   Là on a un outil qui permet au dev de challenger tout seul son propre code, de prendre
-  du recul : accélérer la biblio,  générer des propositions,poser des questions,
-  essayer plusieurs libs, faire des tests.
+  du recul : accélérer la biblio,  générer des propositions, poser des questions,
+  essayer plusieurs libs, faire des tests, et garder ce qui marche.
 - [Ju] Du vibe engineering ?
 - [Jo] C'est ça. Générer le code mais avec l'attitude d'un ingénieur, qui doute de tout
   tant qu'il a pas vu la preuve que ça marche et compris pourquoi.
+  Pour quoi cet import ? Pourquoi pas une autre lib ? Pourquoi cette archi et pas une
+  autre ? Est-ce que ce code s'intègre bien au code existant ? et les perfs ? Et la
+  cybersec ? etc
+  Et ils vont apprendre le code quand même.
+- [Ju] Ils vont apprendre le code ? Sans coder ?
+- [Jo] Oui, en lisant autant de code, y'a plein de choses qui vont rester. Et nous,
+  quand on a vraiment appris, c'est en écrivant notre code, ou en lisant le code des
+  autres sur la doc, sur StackOverflow, sur des blogs, sur des libs existantes ?
+  En plus, eux verront du code de meilleur qualité en moyenne, parce que je sais pas
+  pour toi mais j'ai vu passer un paquet de mauvais code dans les projets legacy.
 - [Ju] Mais ils vont se planter quand même
 - [Jo] Oui, ça fait partie de l'apprentissage. La plupart d'entre nous ont appris sur le
   tas, par essai et erreur, en faisant parfois de grosses bêtises. C'est long et
-  difficile de devenir un bon dev.
-- [Ju] Mais on apprend pas à coder en faisant ça
-- [Jo] Non, on apprend à construire un projet entier et à le mettre en prod dans la
-  foulée. Comme on a dit, il va rester plein de postes de crafteurs, au raz du code et
+  difficile de devenir un bon dev, le but du jeu c'est de progresser plus vite avec l'IA
+- [Ju] Mais ils doivent chercher à apprendre quoi finalement ?
+- [Jo] Apprendre à prompter l'IA, avec tout le contexte nécessaire.
+  Apprend à construire un projet entier et à le mettre en prod dans la foulée.
+  Comme on a dit, il va rester plein de postes de crafteurs, au raz du code et
   de l'algo, qui travailleront comme avant. Pour des jeunes et des vieux. Simplement,
   la majorité de la nouvelle génération passe à autre chose, comme à chaque fois.
 - [Ju] Mais si on fait générer tout le code, on aura pas la connaissance fine du code,
@@ -175,7 +190,8 @@
   et on explore tout le processus du code à la prod.
 - [Ju] Et avec tout ça, les jeunes auront du boulot ?
 - [Jo] C'est la question à 1000 milliards. On a moins besoin de jeunes pour le travail
-  de base, mais on va coder encore plus maintenant. Tout un tas de projet pas assez
+  de base, encore quelques mois et un expert avec 2 ou 3 agents fera le boulot d'une
+  équipe. Mais on va coder encore plus maintenant. Tout un tas de projet pas assez
   prioritaires, plus ou moins pris en charge par du SaaS, vont pouvoir être développés.
   Et de nouveaux secteurs vont se mettre au code. Est-ce que ça va se compenser ?
   Aujourd'hui, on voit 10 à 15% d'embauche de jeunes dev en moins aux USA, mais les
@@ -215,7 +231,6 @@
 - [Ju] Donc en attendant que le client réponde, je prends le temps de passer le flambeau
 - [Jo] Et tu apprends la techno qui vient de sortir pour gagner de nouvelles compétences
 
-
 ## Le futur
 
 - [Ju] Et l'IA bouge super vite, c'est encore valide l'année prochaine ce qu'on raconte ?
@@ -226,7 +241,9 @@
 - [Ju] Le retour de Clippy !
 - [Jo] Mais un clippy qui marche, espérons-le. Du coup la vision de la solution, la
   communication vont devenir encore plus importantes. Il faut s'approprier la vision
-  client pour faire toute la solution.
+  client pour faire toute la solution. La séparation entre un porteur de projet avec
+  la vision et un implémenteur avec le savoir faire n'a jamais vraiment marché de toute
+  façon, on a 10 ans de coaching Agile derrière nous pour le prouver.
 - [Ju] Mais tous les clients ne sont pas prêts à travailler comme ça
 - [Jo] Oui et là aussi ce n'est pas nouveau : tant de projets logiciels mal gérés,
   avec de gros retards et surcout, ou qui ne donnent rien à la fin, déjà avant l'IA.
