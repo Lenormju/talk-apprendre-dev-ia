@@ -440,11 +440,11 @@ Slides
 </div>
 <div class="column">
 
-OpenFeedback
+Feedback
 
-TODO lien feedback
+https://app.voxxr.in/events/snowcamp26/talks/33/details
 
-TODO qr code feedback
+<img src="qr-code-feedback.png" alt="" height="700px" />
 
 </div>
 </div>
