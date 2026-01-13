@@ -56,6 +56,7 @@
 - oui, challender, s'approprier, valider
 - oui, le dev s'empare du problème, même métier. PO ?? PM prend encore plus de hauteur
 - d'accord. Compétences transverses, savoir, suivre, communication...
+  Moins de spécialisation, plus d'adaptation.
 - avantage aux idées portées par un dev, aux startups
   tempo encore plus important, qualité à repenser
 
@@ -63,6 +64,7 @@
 
 - Ils commencent directement avec un agent IA : questions, implémentations...
 - Oui, mais le code de débutant est tjrs mauvais
+  On veut pas : code généré => PR/MR
   AI :
     + Accélération essai/erreur
     + outil pour mettre à l'épreuve et questionner son code

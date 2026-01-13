@@ -204,16 +204,16 @@
   l'équipe, moins de communication, fait gagner du temps en plus de l'IA. On devient
   vite aussi productif qu'une petite équipe sur la partie code.
 - [Ju] Ah ! Donc on abandonne les jeunes !
-- [Jo] Pas forcément, parce que le temps gagner sur le code ne se traduit pas
-  directement en temps gagner sur le projet. On est toujours tributaire des retours
+- [Jo] Pas forcément, parce que le temps gagné sur le code ne se traduit pas
+  directement en temps gagné sur le projet. On est toujours tributaire des retours
   clients, des validations, des réunions... Donc on a du temps.
 - [Ju] Et qu'est-ce qu'on en fait ?
 - [Jo] On fait sa biblio, on suit les technos et les pratiques, c'est encore plus
-  important maintenant que l'informatique accélère encore.
+  important maintenant que l'informatique accélère encore d'avoir une vision globale.
   Et on enseigne aux jeunes, on prend le temps de leur apprendre les pratiques, la
   culture de l'ingéniérie, et de regarder leur code.
 - [Ju] Passer du temps ensemble sur une feature ?
-- [Jo] Oui, la formation initiale est le plus souvent famélique, et le dev s'apprend
+- [Jo] Oui, la formation initiale est le plus souvent insuffisante, et le dev s'apprend
   surtout sur le tas. Là, quand un jeune pense avoir finit son code, on challenge les
   pratiques, les tests, l'archi, les entrées/sorties, la cybersec, les libs, la doc,
   la CI... avant même de regarder vraiment le code.
@@ -228,6 +228,7 @@
 - [Jo] Oui, on leur donne plus de petite tache facile, mais il faut s'attendre à passer
   beaucoup de temps sur la validation des premières taches, avec beaucoup de reprises.
   Il ne faut pas chercher à reproduire l'apprentissage par lequel on est passé.
+  Par contre sur le long terme, on y gagne parce que la progression est plus rapide.
 - [Ju] Donc en attendant que le client réponde, je prends le temps de passer le flambeau
 - [Jo] Et tu apprends la techno qui vient de sortir pour gagner de nouvelles compétences
 
