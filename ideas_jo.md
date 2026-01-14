@@ -4,8 +4,10 @@
 
 ### C'est récurrent
 
+- aujourd'hui IA -> agent, Claude Opus, GPT Codex, Mistral, Deep Seek...
+  techno qui déchaine les passions
+- oui les jeunes. Mais d'abord, inquiétude, profession menacée...
 - les jeunes qui font n'importe quoi tout court
-  *L'IA fait ressortir de vieux débats, et bcp de contradictions.*
   de tout temps, par définition, les jeunes sont nuls, les vieux se plaignent
 - <mes erreurs de jeunesse>
   les jeunes font des erreurs parce qu'ils savent pas, IA ou pas
@@ -56,6 +58,7 @@
 - oui, challender, s'approprier, valider
 - oui, le dev s'empare du problème, même métier. PO ?? PM prend encore plus de hauteur
 - d'accord. Compétences transverses, savoir, suivre, communication...
+  Moins de spécialisation, plus d'adaptation.
 - avantage aux idées portées par un dev, aux startups
   tempo encore plus important, qualité à repenser
 
@@ -63,6 +66,7 @@
 
 - Ils commencent directement avec un agent IA : questions, implémentations...
 - Oui, mais le code de débutant est tjrs mauvais
+  On veut pas : code généré => PR/MR
   AI :
     + Accélération essai/erreur
     + outil pour mettre à l'épreuve et questionner son code
@@ -77,8 +81,8 @@
 - Tant mieux, ils retiendront la leçon.
   On a tous appris sur le tas en faisant des erreurs.
   Long et dur de devenir bon dev, accélération avec IA
-- *Apprendre à prompter l'IA, avec tout le contexte nécessaire.*
-  *Apprendre à faire un projet complet, automatisé et en prod.*
+- *Apprendre à se servir de l'IA.*
+  *Apprendre à faire sien le code généré.*
   Encore plein de boulot de codeur.
   Mais mouvement général vers l'IA
 - Chercher à comprendre. Ce sera long, besoin d'expérience.
@@ -88,3 +92,52 @@
   Aux USA, 15% d'embauche de junior en moins, mais les salaires tiennent.
 
 ## Le nouveau rôle des seniors
+
+- On va plus vite plus loin, moins besoin d'équipe, moins de communication.
+  One man team.
+- faut pas abandonner les jeunes
+  Temps gagné sur l'implem, à voir sur le projet.
+  Temps à investir : vision globale + biblio + PoC, pour enseigner
+- oui, on part de loin. Aujourd'hui, après premières lignes, on apprend sur le tas, tous
+  autodidactes. Donc de toute façon les jeunes se débrouillaient pour apprendre.
+  Avec IA, suivi serré, quotidien, parce que ça va vite.
+  Leur apprendre le reste du métier
+- 1/ *Enseigner à prompter l'IA, avec tout le contexte nécessaire.*
+  2/ *Enseigner l'ingéniérie logicielle.* : pratiques, culture de l'ingéniérie
+  déclinaisons : choisir, archi, CI, test, refacto...
+- Oui, et challenger le code des jeunes : validation I/O ? archi ? libs ? perfs ?
+  cybersec ? doc ?
+  => automatismes
+  pas juste "faire", mais "comprendre pourquoi" et prendre la responsabilité de sa PR.
+  ça prend du temps, mais apprentissage accéléré
+- Et on apprend la techno qui monte pour gagner de nouvelles compétences.
+
+## Le futur ?
+
+- Bonne question.
+  Fin 2024, petite musique de stagnation.
+  2025, IA outil convaincant, plusieurs transitions.
+  Progression des capacités de code ? Projets plus complexes, moins d'erreurs ?
+  Nouveaux systèmes ? IA à l'écoute, qui regarde l'écran ?
+- Avec de bonnes chances qu'il marche cette fois !
+  => Vision, communication amont/aval, développeur de solution.
+  10 ans de coaching Agile pour prouver qu'il faut aller par là.
+- Grande diversité de situation, et c'est pas nouveau non plus.
+  Encore plus de diversité, de frustration chez les devs.
+  Centaure.
+- Oui, centaure = sur-humain, humain augmenté
+- Centaure technologique, moi dans ma voiture avec mon GPS
+- Mais centaure inversé.
+- Centaure inversé = sous-humain
+- Livreur Amazon, que là pour ce qui est pas encore automatisé
+- Oui. Boites d'IA = monstres mégalo, copains pas préoccupés par condition de travail.
+  Profit.
+- Oui, employeurs qui veulent juste un pigeon qui prennne la responsabilité de bug
+  ou faille, ou avec une énorme pression.
+  Trouver la bonne formule pour monnayer nos compétences dans un cadre qui nous convienne.
+  Il faut apprendre ça aux jeunes
+
+## Conclusion
+
+- IA : dernière technologie déstabilisante d'une longue série, changement
+- Jeunes IA natifs, apprendre à bâtir des projets, ingéniérie logicielle.
