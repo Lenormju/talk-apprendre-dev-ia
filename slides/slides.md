@@ -57,7 +57,7 @@ Notes:
 ---
 
 <!-- .slide: data-background-image="./zen.png" -->
-# 1. Dépassionnons l'informatique
+# 1. Dépassionnons le débat
 
 Notes:
 
@@ -381,20 +381,20 @@ tech feudalism
 
 -v-
 
-## Centaure 
+## Centaure
 
 ![](./centaur.png)
 
 -v-
 
-## Centaure inversé
-
-![](./reverse_centaur.png)
--v-
-
 ## Centaure technologique
 
 ![](./GPS.jpg)
+-v-
+
+## Centaure inversé
+
+![](./reverse_centaur.png)
 -v-
 
 ## Centaure inversé technologique
@@ -405,6 +405,15 @@ tech feudalism
 ## IA is the new prolo ?
 
 ![](./charlie.webp)
+
+---
+
+# Conclusion
+
+- IA : dernière technologie déstabilisante, tout change mais rien ne change
+  * Pieds sur terre, on va s'en sortir, les jeunes vont apprendre, les vieux se plaindre
+- Jeunes IA natifs : apprendre à bâtir des projets et l'ingéniérie logicielle
+- Soyons des dévéloppeurs augmentés, résolvons des problèmes
 
 ---
 
