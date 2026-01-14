@@ -16,10 +16,8 @@ Actions :
 }
 </style>
 
-<!-- .slide: data-background-image="./sgalagaev--5iSCtrJX5o-unsplash.jpg" -->
+<!-- .slide: data-background-image="./cover.png" -->
 # Apprendre et enseigner le dev à l'ère de l'IA
-
-TODO image
 
 ---
 
@@ -58,10 +56,8 @@ Notes:
 
 ---
 
-<!-- .slide: data-background-image="./sgalagaev--5iSCtrJX5o-unsplash.jpg" -->
+<!-- .slide: data-background-image="./zen.png" -->
 # 1. Dépassionnons l'informatique
-
-TODO image
 
 Notes:
 
@@ -154,10 +150,8 @@ TODO image
 
 ---
 
-<!-- .slide: data-background-image="./sgalagaev--5iSCtrJX5o-unsplash.jpg" -->
+<!-- .slide: data-background-image="./mutation.png" -->
 # 2. La mutation du métier
-
-TODO image
 
 Notes:
 
@@ -221,13 +215,13 @@ Code review en ligne ?
 
 ## L'IA qui code, le dev qui décide
 
-<img src="./Gemini_Generated_Image_control.png" class="r-stretch" alt="" />
+<img src="./control.png" class="r-stretch" alt="" />
 
 -v-
 
 ## Le retour de l'ingénierie
 
-<img src="./Gemini_Generated_Image_engineering.png" class="r-stretch" alt="" />
+<img src="./engineering.png" class="r-stretch" alt="" />
 
 -v-
 
@@ -239,14 +233,12 @@ Code review en ligne ?
 
 ## La vitesse et le produit
 
-<img src="./Gemini_Generated_Image_product.png" class="r-stretch" alt="" />
+<img src="./product.png" class="r-stretch" alt="" />
 
 ---
 
-<!-- .slide: data-background-image="./sgalagaev--5iSCtrJX5o-unsplash.jpg" -->
+<!-- .slide: data-background-image="./juniors.png" -->
 # 3. La nouvelle posture des juniors
-
-TODO image
 
 Notes:
 "vibe engineering" : du vibe coding, mais avec un recul d'ingénierie (regarder sous le capot)
@@ -273,38 +265,36 @@ jeune / vieux ?
 
 ## Vibe coding ?
 
-<img src="./Gemini_Generated_Image_vibe_coding.png" class="r-stretch" alt="" />
+<img src="./vibe_coding.png" class="r-stretch" alt="" />
 
 -v-
 
 ## Vibe engineering !
 
-<img src="./Gemini_Generated_Image_vibe_engineering.png" class="r-stretch" alt="" />
+<img src="./vibe_engineering.png" class="r-stretch" alt="" />
 
 -v-
 
 ## Apprendre à faire des projets
 
-<img src="./Gemini_Generated_Image_project.png" class="r-stretch" alt="" />
+<img src="./project.png" class="r-stretch" alt="" />
 
 -v-
 
 ## L'interaction avec les agents
 
-<img src="./Gemini_Generated_Image_agents.png" class="r-stretch" alt="" />
+<img src="./agents.png" class="r-stretch" alt="" />
 
 -v-
 
 ## Trouver du boulot ...
 
-<img src="./Gemini_Generated_Image_hiring.png" class="r-stretch" alt="" />
+<img src="./hiring.png" class="r-stretch" alt="" />
 
 ---
 
-<!-- .slide: data-background-image="./sgalagaev--5iSCtrJX5o-unsplash.jpg" -->
+<!-- .slide: data-background-image="./seniors.png" -->
 # 4. La nouvelle posture des seniors
-
-TODO image
 
 Notes:
 focus sur les juniors !
@@ -348,20 +338,18 @@ Scène de bureaux : deux vieux dev, comment tu fais toi ?
 
 ## Les avantages des IAs
 
-<img src="./Gemini_Generated_Image_temps_libéré.png" class="r-stretch" alt="" />
+<img src="./temps_libéré.png" class="r-stretch" alt="" />
 
 -v-
 
 ## Passer le flambeau
 
-<img src="./Gemini_Generated_Image_flambeau.png" class="r-stretch" alt="" />
+<img src="./flambeau.png" class="r-stretch" alt="" />
 
 ---
 
-<!-- .slide: data-background-image="./sgalagaev--5iSCtrJX5o-unsplash.jpg" -->
+<!-- .slide: data-background-image="./futur.png" -->
 # 5. Le futur
-
-TODO image
 
 Notes:
 ouverture
@@ -389,7 +377,7 @@ tech feudalism
 
 ## Clippy 📎
 
-<img src="./Gemini_Generated_Image_Clippy.png" class="r-stretch" alt="" />
+<img src="./Clippy.png" class="r-stretch" alt="" />
 
 -v-
 
@@ -417,7 +405,6 @@ tech feudalism
 ## IA is the new prolo ?
 
 ![](./charlie.webp)
--v-
 
 ---
 
@@ -472,6 +459,23 @@ https://app.voxxr.in/events/snowcamp26/talks/33/details
 </div>
 
 Notes:
+
+---
+
+## + de Clippy !
+
+<div class="row">
+<div class="column">
+
+<img src="./Clippy2.png" alt="" height="700px" />
+
+</div>
+<div class="column">
+
+<img src="./Clippy3.png" alt="" height="700px" />
+
+</div>
+</div>
 
 ---
 
