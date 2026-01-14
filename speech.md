@@ -291,8 +291,8 @@
 
 ## Conclusion
 
-- Pieds sur terre, on va s'en sortir, les jeunes vont apprendre, les vieux se plaindre.
 - IA : dernière technologie déstabilisante d'une longue série, changement
-- Le code n'a jamais été le plus gros problème.
+- Pieds sur terre, on va s'en sortir, les jeunes vont apprendre, les vieux se plaindre.
 - Jeunes IA natifs, apprendre à bâtir des projets, ingéniérie logicielle.
+- Le code n'a jamais été le plus gros problème.
 
