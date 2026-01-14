@@ -4,7 +4,8 @@
 
 ### C'est récurrent
 
-- les jeunes font n'importe quoi avec l'IA
+- et des jeunes
+- n'empêche que les jeunes font n'importe quoi avec l'IA
 - on a été nuls aussi, ne l'oublions pas -> <mes erreurs de jeunesse>
 - l'IA va tout chambouler
 - les jeunes vont trop vite, grillent les étapes
@@ -48,3 +49,30 @@
 
 ## Le nouveau rôle des seniors
 
+- quel rôle pour seniors avec IA ?
+- abandon des jeunes !
+- Enseigner ?
+- On leur apprend quoi alors ?
+- Donc plutôt que le code, je dois apprendre aux jeunes construire le projet ?
+- Donc je donne une vraie tache (parce que petite tache=1 prompt), mais je passe du
+  temps avec lui pour valider, faire les reprises.
+  Ne pas chercher à reproduire mon parcours d'apprentissage.
+  Je passe le flambeau.
+
+## Le futur ?
+
+- Développement rapide de l'IA -> 2026, 2027... ?
+- Le retour de Clippy !
+- Mais est-ce que les clients sont prêts ?
+- De centaure ???
+- Rapport avec l'IA ?
+- Donc un dev avec une IA, c'est un centaure technologique, un dev augmenté.
+- Le centaure inversé ?????
+- Centaure inversé technologique
+- Aliénation du travail, dev soumis à l'IA.
+- Ils veulent des centaures inversés, mais moi je veux être un dev augmenté.
+
+## Conclusion
+
+- Pieds sur terre, on va s'en sortir, les jeunes vont apprendre, les vieux se plaindre.
+- Le code n'a jamais été le plus gros problème.

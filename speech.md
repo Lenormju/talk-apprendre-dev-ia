@@ -22,8 +22,15 @@
 
 - [Jo] Aujourd'hui, nous allons parler du développement logiciel à l'ère de l'IA,
   et par IA on veut dire LLM, génération de code, agent, GPT-5.2/Opus 4.5...
-- [Ju] Et des jeunes qui font n'importe quoi avec l'IA
-- [Jo] Et des jeunes qui font n'importe quoi tout court. On dirait que l'IA fait
+  Une techno qui déchaine les passions.
+- [Ju] Et des jeunes
+- [Jo] Et des jeunes. Mais d'abord, l'IA fait remonter beaucoup plus de vieux débats
+  que de nouveautés, et beaucoup de contradications, essayons de poser les choses.
+  Il y a plein de critiques légitimes de l'IA, sur les capacités de la techno, sur ses
+  acteurs, sur son développement. Mais il y a surtout beaucoup d'inquiétude de la part
+  d'une profession qui se sent bousculée voire menacée. Calmons le jeu.
+- [Ju] N'empêche que les jeunes font n'importe quoi avec l'IA.
+- [Jo] Les jeunes qui font n'importe quoi tout court. On dirait que l'IA fait
   ressortir beaucoup plus de vieux débats que de nouveautés, et beaucoup de
   contradications, essayons de poser les choses.
   Par définition, de tout temps, dans toutes les disciplines, les débutants sont nuls,
@@ -204,35 +211,41 @@
   l'équipe, moins de communication, fait gagner du temps en plus de l'IA. On devient
   vite aussi productif qu'une petite équipe sur la partie code.
 - [Ju] Ah ! Donc on abandonne les jeunes !
-- [Jo] Pas forcément, parce que le temps gagné sur le code ne se traduit pas
-  directement en temps gagné sur le projet. On est toujours tributaire des retours
-  clients, des validations, des réunions... Donc on a du temps.
-- [Ju] Et qu'est-ce qu'on en fait ?
-- [Jo] On fait sa biblio, on suit les technos et les pratiques, c'est encore plus
-  important maintenant que l'informatique accélère encore d'avoir une vision globale.
-  Et on enseigne aux jeunes, on prend le temps de leur apprendre les pratiques, la
-  culture de l'ingéniérie, et de regarder leur code.
-- [Ju] Passer du temps ensemble sur une feature ?
-- [Jo] Oui, la formation initiale est le plus souvent insuffisante, et le dev s'apprend
-  surtout sur le tas. Là, quand un jeune pense avoir finit son code, on challenge les
-  pratiques, les tests, l'archi, les entrées/sorties, la cybersec, les libs, la doc,
-  la CI... avant même de regarder vraiment le code.
-- [Ju] Notre apprentissage passait par le code qu'on écrivait et StackOverflow, le leur
-  passe par le code généré et ChatGPT.
-- [Jo] C'est ça. Donc encadrer un débutant va continuer à prendre du temps, jusqu'à ce
+- [Jo] Non justement. On gagne du temps sur l'implémentation, pas forcément sur le
+  projet. On est toujours tributaire des retours clients, des validations,
+  des réunions...
+  On va investir ce temps. D'abord, travailler sa vision globale : biblio, suivi des
+  technos et des pratiques, PoC, c'est encore plus important maintenant que
+  l'informatique accélère. On peut pas enseigner sans être au courant.
+- [Ju] Enseigner ?
+- [Jo] Aujourd'hui, la formation initiale est le plus souvent insuffisante, et le dev
+  s'apprend surtout sur le tas, passé les premières lignes.
+  Avec l'IA, il faut assurer un suivi très serré, quotidien, des juniors.
+  Et leur apprendre tout le reste du métier.
+- [Ju] On leur apprend quoi alors ?
+- [Jo] 1/ D'abord comment prompter une IA : les bonnes consignes, avec le bon contexte,
+  ni trop ni pas assez.
+  2/ On leur apprend tout ce qui autour du code dans un projet logiciel :
+  les bonnes pratiques, la culture de l'ingéniérie, le doute critique, et on décline :
+  quand chercher une lib et quand implémenter, comment choisir une lib, les bases de
+  l'archi, faire une CI, un test, un refacto...
+- [Ju] Donc plutôt que le code, je dois apprendre aux jeunes à construire le projet ?
+- [Jo] Oui, et quand un jeune pense avoir finit challenger leur code pour que ça devinne
+  un automatisme : valider les entrées, évaluer les perfs, tester, cybersec, archi, doc,
+  libs...
+  Donc encadrer un débutant va continuer à prendre du temps, surtout au début jusqu'à ce
   qu'il soit en mesure d'assumer la responsabilité de sa PR. Passer de "faire" à
   "comprendre pourquoi c'est fait comme ça", et s'assurer que le code fait un tout
   cohérent, intégré.
-- [Ju] Donc plutôt que le code, je dois apprendre aux jeunes à quoi faire attention,
-  évaluer les perfs, valider les entrées, tester...
-- [Jo] Oui, on leur donne plus de petite tache facile, mais il faut s'attendre à passer
-  beaucoup de temps sur la validation des premières taches, avec beaucoup de reprises.
-  Il ne faut pas chercher à reproduire l'apprentissage par lequel on est passé.
   Par contre sur le long terme, on y gagne parce que la progression est plus rapide.
-- [Ju] Donc en attendant que le client réponde, je prends le temps de passer le flambeau
+- [Ju] Donc je lui donne directement une vraie tache, de toute façon les petites je peux
+  les prompter, mais il faut s'attendre à passer du temps sur la validation des
+  premières taches, avec beaucoup de reprises.
+  Ne pas chercher à reproduire l'apprentissage par lequel on est passé.
+  Et en attendant que le client réponde, je prends le temps de passer le flambeau
 - [Jo] Et tu apprends la techno qui vient de sortir pour gagner de nouvelles compétences
 
-## Le futur
+## Le futur ?
 
 - [Ju] Et l'IA bouge super vite, c'est encore valide l'année prochaine ce qu'on raconte ?
 - [Jo] Bonne question. Aujourd'hui, l'IA peut pas assumer le role du prof ou du maitre
@@ -275,3 +288,11 @@
   introduit une faille ou un bug. Et d'autres qui vont sauter sur tous les marchés pas
   encore informatisés, en prenant de vitesse les acteurs existants.
   Et entre les deux toutes les formules pour monnayer nos compétences.
+
+## Conclusion
+
+- Pieds sur terre, on va s'en sortir, les jeunes vont apprendre, les vieux se plaindre.
+- IA : dernière technologie déstabilisante d'une longue série, changement
+- Le code n'a jamais été le plus gros problème.
+- Jeunes IA natifs, apprendre à bâtir des projets, ingéniérie logicielle.
+
