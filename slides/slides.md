@@ -19,6 +19,8 @@ Actions :
 <!-- .slide: data-background-image="./sgalagaev--5iSCtrJX5o-unsplash.jpg" -->
 # Apprendre et enseigner le dev à l'ère de l'IA
 
+TODO image
+
 ---
 
 <!-- .slide: data-background-image="./Slide Sponsor SnowCamp 2026 - 16.9.pptx.svg" -->
@@ -58,6 +60,8 @@ Notes:
 
 <!-- .slide: data-background-image="./sgalagaev--5iSCtrJX5o-unsplash.jpg" -->
 # 1. Dépassionnons l'informatique
+
+TODO image
 
 Notes:
 
@@ -110,34 +114,50 @@ Mise en scène :
 
 ## Erreurs de jeunesse
 
+TODO image
+
 -v-
 
 ## Révolutions informatiques
+
+TODO image
 
 -v-
 
 ## Les jeunes de nos jours ...
 
+TODO image
+
 -v-
 
 ## C'est normal
+
+TODO image
 
 -v-
 
 ## La vitesse du changement
 
+TODO image
+
 -v-
 
 ## Le temps et la place
+
+TODO image
 
 -v-
 
 ## L'heure du choix
 
+TODO image
+
 ---
 
 <!-- .slide: data-background-image="./sgalagaev--5iSCtrJX5o-unsplash.jpg" -->
 # 2. La mutation du métier
+
+TODO image
 
 Notes:
 
@@ -224,7 +244,6 @@ Code review en ligne ?
 ---
 
 <!-- .slide: data-background-image="./sgalagaev--5iSCtrJX5o-unsplash.jpg" -->
-
 # 3. La nouvelle posture des juniors
 
 TODO image
@@ -402,14 +421,18 @@ tech feudalism
 
 ---
 
-<!-- .slide: data-background-image="./sgalagaev--5iSCtrJX5o-unsplash.jpg" -->
-# Pour aller + loin
+# Sources et pour aller + loin
 
-TODO
+* [Addy Osmani - The Next Two Years of Software Engineering](https://addyosmani.com/blog/next-two-years/)
+* [Kent Beck - The Bet On Juniors Just Got Better](https://tidyfirst.substack.com/p/the-bet-on-juniors-just-got-better)
+* [Peter Yang - So What's Going to Happen to Product Management Anyway?](https://creatoreconomy.so/p/so-whats-going-to-happen-to-product-management-anyway)
+* [AWS CEO Explains 3 Reasons AI Can’t Replace Junior Devs](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
+* [Antirez - Don't fall into the anti-AI hype](https://antirez.com/news/158)
+* [Simon Willison - Your job is to deliver code you have proven to work](https://simonwillison.net/2025/Dec/18/code-proven-to-work/)
+* [Simon Willison - Coding Again](https://simonwillison.net/2026/Jan/4/coding-again/)
 
 ---
 
-<!-- .slide: data-background-image="./sgalagaev--5iSCtrJX5o-unsplash.jpg" -->
 # Crédits photos
 
 - ChatGPT
@@ -417,7 +440,6 @@ TODO
 
 ---
 
-<!-- .slide: data-background-image="./sgalagaev--5iSCtrJX5o-unsplash.jpg" -->
 # Questions
 
 <style>
