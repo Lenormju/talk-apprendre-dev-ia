@@ -110,43 +110,25 @@ Mise en scène :
 
 ## Erreurs de jeunesse
 
-TODO image
+<img src="./prime_errors.png" class="r-stretch" alt="" />
 
 -v-
 
 ## Révolutions informatiques
 
-TODO image
+<img src="./tech_evolutions.png" class="r-stretch" alt="" />
 
 -v-
 
 ## Les jeunes de nos jours ...
 
-TODO image
-
--v-
-
-## C'est normal
-
-TODO image
-
--v-
-
-## La vitesse du changement
-
-TODO image
+<img src="./old_versus_youngs.png" class="r-stretch" alt="" />
 
 -v-
 
 ## Le temps et la place
 
-TODO image
-
--v-
-
-## L'heure du choix
-
-TODO image
+<img src="./for_everyone.png" class="r-stretch" alt="" />
 
 ---
 
