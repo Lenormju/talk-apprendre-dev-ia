@@ -14,10 +14,15 @@ Actions :
   display: inline-block;
   color: AliceBlue;
 }
+
+.reveal .slides > section:first-child h1 {
+  transform: translateY(-220px);
+  padding: 10px 40px !important;
+}
 </style>
 
 <!-- .slide: data-background-image="./cover.png" -->
-# Apprendre et enseigner le dev à l'ère de l'IA
+# Apprendre et enseigner le dev<br>à l'ère de l'IA
 
 ---
 
@@ -416,6 +421,15 @@ tech feudalism
 
 - ChatGPT
 - Google Gemini
+- Charlie Chaplin, dans The Modern Times
+- [Simon Williamson - A computer can never be held accountable](https://simonwillison.net/2025/Feb/3/a-computer-can-never-be-held-accountable/)
+- Logos de :
+  - Anthropic
+  - DeepSeek
+  - Google Gemini
+  - Mistral
+  - OpenAI
+  - Qwen
 
 ---
 
