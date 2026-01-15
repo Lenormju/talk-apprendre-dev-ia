@@ -426,6 +426,7 @@ tech feudalism
 * [Antirez - Don't fall into the anti-AI hype](https://antirez.com/news/158)
 * [Simon Willison - Your job is to deliver code you have proven to work](https://simonwillison.net/2025/Dec/18/code-proven-to-work/)
 * [Simon Willison - Coding Again](https://simonwillison.net/2026/Jan/4/coding-again/)
+* [IFTTD & Quentin Adam - IA, productivité et rupture : nouvelle donne pour les développeurs ?](https://www.ifttd.io/episodes/bilan-2025)
 
 ---
 
