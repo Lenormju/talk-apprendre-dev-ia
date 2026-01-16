@@ -291,8 +291,7 @@
 
 ## Conclusion
 
-- IA : dernière technologie déstabilisante d'une longue série, changement
-- Pieds sur terre, on va s'en sortir, les jeunes vont apprendre, les vieux se plaindre.
-- Jeunes IA natifs, apprendre à bâtir des projets, ingéniérie logicielle.
-- Le code n'a jamais été le plus gros problème.
-
+- IA : dernière technologie déstabilisante d'une longue série, changement  <!-- .element: class="fragment" -->
+- Pieds sur terre, on va s'en sortir, les jeunes vont apprendre, les vieux se plaindre.  <!-- .element: class="fragment" -->
+- Jeunes IA natifs, apprendre à bâtir des projets, ingéniérie logicielle.  <!-- .element: class="fragment" -->
+- Le code n'a jamais été le plus gros problème.  <!-- .element: class="fragment" -->

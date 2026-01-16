@@ -14,10 +14,15 @@ Actions :
   display: inline-block;
   color: AliceBlue;
 }
+
+.reveal .slides > section:first-child h1 {
+  transform: translateY(-220px);
+  padding: 10px 40px !important;
+}
 </style>
 
 <!-- .slide: data-background-image="./cover.png" -->
-# Apprendre et enseigner le dev à l'ère de l'IA
+# Apprendre et enseigner le dev<br>à l'ère de l'IA
 
 ---
 
@@ -110,43 +115,25 @@ Mise en scène :
 
 ## Erreurs de jeunesse
 
-TODO image
+<img src="./prime_errors.png" class="r-stretch" alt="" />
 
 -v-
 
 ## Révolutions informatiques
 
-TODO image
+<img src="./tech_evolutions.png" class="r-stretch" alt="" />
 
 -v-
 
 ## Les jeunes de nos jours ...
 
-TODO image
-
--v-
-
-## C'est normal
-
-TODO image
-
--v-
-
-## La vitesse du changement
-
-TODO image
+<img src="./old_versus_youngs.png" class="r-stretch" alt="" />
 
 -v-
 
 ## Le temps et la place
 
-TODO image
-
--v-
-
-## L'heure du choix
-
-TODO image
+<img src="./for_everyone.png" class="r-stretch" alt="" />
 
 ---
 
@@ -426,6 +413,7 @@ tech feudalism
 * [Antirez - Don't fall into the anti-AI hype](https://antirez.com/news/158)
 * [Simon Willison - Your job is to deliver code you have proven to work](https://simonwillison.net/2025/Dec/18/code-proven-to-work/)
 * [Simon Willison - Coding Again](https://simonwillison.net/2026/Jan/4/coding-again/)
+* [IFTTD & Quentin Adam - IA, productivité et rupture : nouvelle donne pour les développeurs ?](https://www.ifttd.io/episodes/bilan-2025)
 
 ---
 
@@ -433,6 +421,15 @@ tech feudalism
 
 - ChatGPT
 - Google Gemini
+- Charlie Chaplin, dans The Modern Times
+- [Simon Williamson - A computer can never be held accountable](https://simonwillison.net/2025/Feb/3/a-computer-can-never-be-held-accountable/)
+- Logos de :
+  - Anthropic
+  - DeepSeek
+  - Google Gemini
+  - Mistral
+  - OpenAI
+  - Qwen
 
 ---
 
